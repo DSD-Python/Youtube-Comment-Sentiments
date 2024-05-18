@@ -27,6 +27,6 @@ In the digital age it is easier than ever for normal individuals to have a voice
 ## 3. Generate stats for desired video.
 ![Stats results for boston college tour](git_imgs/stat_out.png)
 
-## 3. Save desired stats to file.
+## 4. Save desired stats to file.
 ![file dialogue to save checked files](git_imgs/save_stat.png)
 
